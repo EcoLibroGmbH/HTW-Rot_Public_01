@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "EPkwLadestationen_7",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "Ladestation": " ", "Anbieter": "HTW Saar", "Ladepunkte": "AC-Ladepunkt", "Art": "Dienstfahrzeuge HTW Saar" }, "geometry": { "type": "Point", "coordinates": [ 7.0159431, 49.2436029 ] } }
+]
+}

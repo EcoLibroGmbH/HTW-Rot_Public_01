@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "Bushaltestellen_5",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n6572283904", "name": "Im Sauerbrod" }, "geometry": { "type": "Point", "coordinates": [ 7.0105253, 49.2448911 ] } },
+{ "type": "Feature", "properties": { "full_id": "n10838701232", "name": "Waldhaus" }, "geometry": { "type": "Point", "coordinates": [ 7.0213466, 49.2463384 ] } },
+{ "type": "Feature", "properties": { "full_id": "n10844890818", "name": "Ilsestraße" }, "geometry": { "type": "Point", "coordinates": [ 7.0169894, 49.2412271 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "name": "Prinzenweiher/DJH" }, "geometry": { "type": "Point", "coordinates": [ 7.012089448184368, 49.243809164028626 ] } },
+{ "type": "Feature", "properties": { "full_id": null, "name": "Ilseplatz" }, "geometry": { "type": "Point", "coordinates": [ 7.014985966500729, 49.242304271333616 ] } }
+]
+}

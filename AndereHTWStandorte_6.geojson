@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "AndereHTWStandorte_6",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "Standort": "Hochschul-Technologie-Zentrum (HTZ)" }, "geometry": { "type": "Point", "coordinates": [ 6.936387084479075, 49.245137985307686 ] } },
+{ "type": "Feature", "properties": { "id": 3, "Standort": "Göttelborn" }, "geometry": { "type": "Point", "coordinates": [ 7.034759246903465, 49.343433889871882 ] } },
+{ "type": "Feature", "properties": { "id": 4, "Standort": "Alt-Saarbrücken" }, "geometry": { "type": "Point", "coordinates": [ 6.974061406551026, 49.235638779528038 ] } }
+]
+}

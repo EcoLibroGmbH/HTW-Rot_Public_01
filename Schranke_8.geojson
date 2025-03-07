@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Schranke_8",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "Schranke": " ", "Beschreibung": "Beschrankte Campus-Zufahrt" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.01721440791818, 49.244227851055406 ], [ 7.017116495388048, 49.244211706132724 ], [ 7.017146162047634, 49.244138356929945 ], [ 7.017240211670577, 49.244154839906351 ], [ 7.01721440791818, 49.244227851055406 ] ] ] } }
+]
+}

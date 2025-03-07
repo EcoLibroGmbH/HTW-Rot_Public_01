@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Motorradstellpltze_3",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 20, "Stelle": 4, "Art": null, "Motorradstellplatz": " " }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.016344288143341, 49.244086554132409 ], [ 7.016362770283918, 49.244043688620629 ], [ 7.016266954976191, 49.244029717631001 ], [ 7.016251877440458, 49.244070042976723 ], [ 7.016344288143341, 49.244086554132409 ] ] ] } }
+]
+}
